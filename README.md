@@ -8,7 +8,9 @@ This is the power BI project for football data analysis from "project Finta".
 
 The files in this repository are:
   >clubs.csv, competitions.csv and games.csv, which were downloaded from https://data.world/dcereijo/player-scores (Thank you so much David Cereijo);
+  
   >games1.csv and games2.csv, which are the files that I treated in the notebooks etl_games.ipynb and Competitions.ipynb respectively;
+  
   >games_bi.pbix (the Power BI file).
 
 ## The power BI project
