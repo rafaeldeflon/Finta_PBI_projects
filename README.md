@@ -20,7 +20,7 @@ The Power BI project model was built following the following scheme:
 ![image](https://user-images.githubusercontent.com/106821774/176201449-5116f55b-c022-4840-b526-ff6c151b86de.png)
 
 This is the main page of the project (the report):
-![image](https://user-images.githubusercontent.com/106821774/176199105-6eb398cf-6695-491b-922a-3bb7d073a9c6.png)
+![image](https://user-images.githubusercontent.com/106821774/176329881-f774631b-3c7a-4c16-920c-8b011a424168.png)
 
 The colors used here were previously chosen according to the visual identity of the project. 
 
