@@ -1,8 +1,8 @@
 # Finta_PBI_projects
 
-This is the power BI project for football data analysis from "project Finta". 
+This is the power BI project for football data analysis "project Finta". 
 
-(This work is for study purposes and not for profit).
+(This work is for study purposes only).
 
 ## The files
 
@@ -15,7 +15,7 @@ The files in this repository are:
 
 ## The power BI project
 
-The Power BI project model was built following the following scheme:
+The Power BI project model was built following with the scheme:
 
 ![image](https://user-images.githubusercontent.com/106821774/176201449-5116f55b-c022-4840-b526-ff6c151b86de.png)
 
